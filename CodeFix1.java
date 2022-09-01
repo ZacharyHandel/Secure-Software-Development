@@ -14,7 +14,7 @@ public class Dog {
         this.age = age;
         this.color = color;
     }
-
+    // a new branch would be an innapropriate way to do what you wanna do
     public String getName() {
         return name;
     }
